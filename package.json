@@ -1,0 +1,17 @@
+{
+  "name": "loggging",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A demo for production logging in NodeJS applications",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Evi Owhotemu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-winston": "^4.2.0",
+    "winston": "^3.8.2"
+  }
+}
